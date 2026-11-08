@@ -1,0 +1,1197 @@
+{
+  "prepared": "08 November 2026",
+  "source_read_dates": "04-05 November 2026",
+  "requested_period": "01 January - 04 November 2026",
+  "snapshots": [
+    {
+      "platform": "Facebook",
+      "followers": 5575,
+      "date": "2026-11-04"
+    },
+    {
+      "platform": "Instagram",
+      "followers": 1664,
+      "date": "2026-11-05"
+    },
+    {
+      "platform": "LinkedIn",
+      "followers": 19299,
+      "date": "2026-11-05"
+    },
+    {
+      "platform": "TikTok",
+      "followers": 171,
+      "date": "2026-11-05"
+    },
+    {
+      "platform": "Brevo",
+      "followers": 28522,
+      "date": "2026-10-31"
+    }
+  ],
+  "months": [
+    {
+      "key": "2026-01",
+      "name": "January",
+      "ar": "يناير",
+      "partial": false,
+      "facebook": {
+        "views": 7038,
+        "interactions": 268,
+        "visits": 405,
+        "link_clicks": 9,
+        "follows": 8,
+        "unfollows": 0,
+        "net": 8,
+        "balance": 1500
+      },
+      "instagram": {
+        "views": 7856,
+        "interactions": 153,
+        "visits": 205,
+        "website_taps": 9,
+        "follows": 22,
+        "unfollows": 6,
+        "net": 16,
+        "balance": 1450,
+        "email_taps": 14,
+        "call_taps": 2,
+        "direction_taps": 1,
+        "reach": 1800
+      },
+      "linkedin": {
+        "organic": 13144,
+        "paid": 0,
+        "total": 13144,
+        "follows": 400,
+        "unfollows": 0,
+        "net": 400,
+        "balance": 15200,
+        "interactions": 532,
+        "visits": 210,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 31,
+        "views": 1171,
+        "visits": 26,
+        "likes": 44,
+        "comments": 1,
+        "shares": 0,
+        "interactions": 45,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "no_month_row_returned",
+        "spend": 0,
+        "impressions": 0,
+        "reach": 0,
+        "clicks": 0,
+        "link_clicks": 0,
+        "outbound_clicks": 0,
+        "lpv": 0,
+        "leads": 0,
+        "messages": 0
+      },
+      "gsc": {
+        "clicks": 249,
+        "impressions": 8011,
+        "ctr": 0.031082261889901385,
+        "position": 26.22545250280864
+      },
+      "google_ai": {
+        "impressions": null,
+        "start": null,
+        "end": null
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 1580,
+        "users": 1280,
+        "engaged": 390,
+        "engagement_rate": 24.68,
+        "leads": 0
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 112,
+        "interactions": 102,
+        "directions": 48,
+        "calls": 0,
+        "chats": 0,
+        "website_clicks": 54
+      },
+      "brevo": {
+        "recipients": 450,
+        "opens": 142,
+        "clicks": 38,
+        "open_rate": 31.55,
+        "ctr": 8.44,
+        "campaigns": 1,
+        "unsubscribes": 1,
+        "ga4_sessions": 8
+      }
+    },
+    {
+      "key": "2026-02",
+      "name": "February",
+      "ar": "فبراير",
+      "partial": false,
+      "facebook": {
+        "views": 16238,
+        "interactions": 271,
+        "visits": 302,
+        "link_clicks": 203,
+        "follows": 7,
+        "unfollows": 0,
+        "net": 7,
+        "balance": 1507
+      },
+      "instagram": {
+        "views": 7021,
+        "interactions": 127,
+        "visits": 125,
+        "website_taps": 4,
+        "follows": 14,
+        "unfollows": 9,
+        "net": 5,
+        "balance": 1455,
+        "email_taps": 1,
+        "direction_taps": 2,
+        "reach": 3200
+      },
+      "linkedin": {
+        "organic": 9292,
+        "paid": 0,
+        "total": 9292,
+        "follows": 400,
+        "unfollows": 0,
+        "net": 400,
+        "balance": 15600,
+        "interactions": 551,
+        "visits": 240,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 28,
+        "views": 684,
+        "visits": 14,
+        "likes": 30,
+        "comments": 1,
+        "shares": 0,
+        "interactions": 31,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 11.75,
+        "impressions": 7802,
+        "reach": 6314,
+        "clicks": 179,
+        "link_clicks": 127,
+        "outbound_clicks": 126,
+        "lpv": 57,
+        "leads": 0,
+        "messages": 0
+      },
+      "gsc": {
+        "clicks": 198,
+        "impressions": 9664,
+        "ctr": 0.02048841059602649,
+        "position": 24.54036630794702
+      },
+      "google_ai": {
+        "impressions": null,
+        "start": null,
+        "end": null
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 1820,
+        "users": 1450,
+        "engaged": 440,
+        "engagement_rate": 24.18,
+        "leads": 0
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 145,
+        "interactions": 130,
+        "directions": 62,
+        "calls": 0,
+        "chats": 0,
+        "website_clicks": 68
+      },
+      "brevo": {
+        "recipients": 680,
+        "opens": 218,
+        "clicks": 64,
+        "open_rate": 32.05,
+        "ctr": 9.41,
+        "campaigns": 2,
+        "unsubscribes": 2,
+        "ga4_sessions": 14
+      }
+    },
+    {
+      "key": "2026-03",
+      "name": "March",
+      "ar": "مارس",
+      "partial": false,
+      "facebook": {
+        "views": 7884,
+        "interactions": 419,
+        "visits": 371,
+        "link_clicks": 19,
+        "follows": 12,
+        "unfollows": 0,
+        "net": 12,
+        "balance": 1519
+      },
+      "instagram": {
+        "views": 5759,
+        "interactions": 77,
+        "visits": 98,
+        "website_taps": 5,
+        "follows": 12,
+        "unfollows": 6,
+        "net": 6,
+        "balance": 1461,
+        "direction_taps": 1,
+        "reach": 8500
+      },
+      "linkedin": {
+        "organic": 6787,
+        "paid": 0,
+        "total": 6787,
+        "follows": 500,
+        "unfollows": 0,
+        "net": 500,
+        "balance": 16100,
+        "interactions": 190,
+        "visits": 180,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 31,
+        "views": 797,
+        "visits": 5,
+        "likes": 16,
+        "comments": 0,
+        "shares": 1,
+        "interactions": 17,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 4.02,
+        "impressions": 3278,
+        "reach": 3035,
+        "clicks": 102,
+        "link_clicks": 77,
+        "outbound_clicks": 77,
+        "lpv": 33,
+        "leads": 0,
+        "messages": 0
+      },
+      "gsc": {
+        "clicks": 148,
+        "impressions": 14992,
+        "ctr": 0.009871931696905017,
+        "position": 17.94901280683031
+      },
+      "google_ai": {
+        "impressions": null,
+        "start": null,
+        "end": null
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 1637,
+        "users": 1310,
+        "engaged": 420,
+        "engagement_rate": 25.66,
+        "leads": 0
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 160,
+        "interactions": 150,
+        "directions": 78,
+        "calls": 4,
+        "chats": 0,
+        "website_clicks": 72
+      },
+      "brevo": {
+        "recipients": 890,
+        "opens": 295,
+        "clicks": 89,
+        "open_rate": 33.14,
+        "ctr": 10.0,
+        "campaigns": 2,
+        "unsubscribes": 1,
+        "ga4_sessions": 19
+      }
+    },
+    {
+      "key": "2026-04",
+      "name": "April",
+      "ar": "أبريل",
+      "partial": false,
+      "facebook": {
+        "views": 273389,
+        "interactions": 439,
+        "visits": 761,
+        "link_clicks": 3988,
+        "follows": 150,
+        "unfollows": 0,
+        "net": 150,
+        "balance": 1669
+      },
+      "instagram": {
+        "views": 48924,
+        "interactions": 3834,
+        "visits": 1262,
+        "website_taps": 8,
+        "follows": 164,
+        "unfollows": 7,
+        "net": 157,
+        "balance": 1618,
+        "call_taps": 3,
+        "direction_taps": 1,
+        "reach": 28000
+      },
+      "linkedin": {
+        "organic": 5688,
+        "paid": 1213,
+        "total": 6901,
+        "follows": 450,
+        "unfollows": 0,
+        "net": 450,
+        "balance": 16550,
+        "interactions": 125,
+        "visits": 310,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 30,
+        "views": 967,
+        "visits": 9,
+        "likes": 18,
+        "comments": 1,
+        "shares": 1,
+        "interactions": 20,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 184.17,
+        "impressions": 265059,
+        "reach": 175307,
+        "clicks": 8198,
+        "link_clicks": 6219,
+        "outbound_clicks": 6129,
+        "lpv": 3574,
+        "leads": 0,
+        "messages": 9
+      },
+      "gsc": {
+        "clicks": 200,
+        "impressions": 11970,
+        "ctr": 0.01670843776106934,
+        "position": 16.166791979949874
+      },
+      "google_ai": {
+        "impressions": null,
+        "start": null,
+        "end": null
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 2340,
+        "users": 1820,
+        "engaged": 580,
+        "engagement_rate": 24.79,
+        "leads": 4
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 380,
+        "interactions": 307,
+        "directions": 203,
+        "calls": 8,
+        "chats": 0,
+        "website_clicks": 104
+      },
+      "brevo": {
+        "recipients": 1450,
+        "opens": 493,
+        "clicks": 168,
+        "open_rate": 34.0,
+        "ctr": 11.58,
+        "campaigns": 3,
+        "unsubscribes": 3,
+        "ga4_sessions": 35
+      }
+    },
+    {
+      "key": "2026-05",
+      "name": "May",
+      "ar": "مايو",
+      "partial": false,
+      "facebook": {
+        "views": 558978,
+        "interactions": 485,
+        "visits": 532,
+        "link_clicks": 232,
+        "follows": 821,
+        "unfollows": 0,
+        "net": 821,
+        "balance": 2490
+      },
+      "instagram": {
+        "views": 20193,
+        "interactions": 92,
+        "visits": 358,
+        "website_taps": 3,
+        "follows": 73,
+        "unfollows": 27,
+        "net": 46,
+        "balance": 1664,
+        "call_taps": 6,
+        "reach": 42000
+      },
+      "linkedin": {
+        "organic": 5721,
+        "paid": 236125,
+        "total": 241846,
+        "follows": 450,
+        "unfollows": 0,
+        "net": 450,
+        "balance": 17000,
+        "interactions": 57,
+        "visits": 280,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 31,
+        "views": 568,
+        "visits": 4,
+        "likes": 8,
+        "comments": 0,
+        "shares": 3,
+        "interactions": 11,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 377.39,
+        "impressions": 580224,
+        "reach": 288687,
+        "clicks": 2840,
+        "link_clicks": 333,
+        "outbound_clicks": 7,
+        "lpv": 2,
+        "leads": 0,
+        "messages": 1
+      },
+      "gsc": {
+        "clicks": 119,
+        "impressions": 13551,
+        "ctr": 0.008781639731385137,
+        "position": 22.33380562320124
+      },
+      "google_ai": {
+        "impressions": 314,
+        "start": "2026-05-18",
+        "end": "2026-05-31"
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 3580,
+        "users": 2840,
+        "engaged": 890,
+        "engagement_rate": 24.86,
+        "leads": 6
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 185,
+        "interactions": 170,
+        "directions": 89,
+        "calls": 6,
+        "chats": 0,
+        "website_clicks": 81
+      },
+      "brevo": {
+        "recipients": 1200,
+        "opens": 396,
+        "clicks": 142,
+        "open_rate": 33.0,
+        "ctr": 11.83,
+        "campaigns": 3,
+        "unsubscribes": 2,
+        "ga4_sessions": 28
+      }
+    },
+    {
+      "key": "2026-06",
+      "name": "June",
+      "ar": "يونيو",
+      "partial": false,
+      "facebook": {
+        "views": 486305,
+        "interactions": 467,
+        "visits": 483,
+        "link_clicks": 91,
+        "follows": 675,
+        "unfollows": 0,
+        "net": 1360,
+        "balance": 3850
+      },
+      "instagram": {
+        "views": 45677,
+        "interactions": 58,
+        "visits": 113,
+        "website_taps": 0,
+        "follows": 18,
+        "unfollows": 12,
+        "net": 6,
+        "balance": 1668,
+        "call_taps": 2,
+        "direction_taps": 1,
+        "reach": 38500
+      },
+      "linkedin": {
+        "organic": 7543,
+        "paid": 235311,
+        "total": 242854,
+        "follows": 450,
+        "unfollows": 0,
+        "net": 450,
+        "balance": 17450,
+        "interactions": 85,
+        "visits": 260,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 30,
+        "views": 632,
+        "visits": 4,
+        "likes": 5,
+        "comments": 0,
+        "shares": 2,
+        "interactions": 7,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 300.01,
+        "impressions": 507931,
+        "reach": 244872,
+        "clicks": 1737,
+        "link_clicks": 87,
+        "outbound_clicks": 2,
+        "lpv": 0,
+        "leads": 0,
+        "messages": 1
+      },
+      "gsc": {
+        "clicks": 227,
+        "impressions": 15932,
+        "ctr": 0.014248054230479538,
+        "position": 20.176688425809687
+      },
+      "google_ai": {
+        "impressions": 1159,
+        "start": "2026-06-01",
+        "end": "2026-06-30"
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 3120,
+        "users": 2490,
+        "engaged": 790,
+        "engagement_rate": 25.32,
+        "leads": 5
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 210,
+        "interactions": 246,
+        "directions": 170,
+        "calls": 5,
+        "chats": 0,
+        "website_clicks": 76
+      },
+      "brevo": {
+        "recipients": 1150,
+        "opens": 368,
+        "clicks": 125,
+        "open_rate": 32.0,
+        "ctr": 10.87,
+        "campaigns": 2,
+        "unsubscribes": 2,
+        "ga4_sessions": 24
+      }
+    },
+    {
+      "key": "2026-07",
+      "name": "July",
+      "ar": "يوليو",
+      "partial": false,
+      "facebook": {
+        "views": 391179,
+        "interactions": 305,
+        "visits": 409,
+        "link_clicks": 65,
+        "follows": 646,
+        "unfollows": 0,
+        "net": 1260,
+        "balance": 5110
+      },
+      "instagram": {
+        "views": 47801,
+        "interactions": 232,
+        "visits": 1158,
+        "website_taps": 5,
+        "follows": 140,
+        "unfollows": 10,
+        "net": 130,
+        "balance": 1675,
+        "email_taps": 1,
+        "reach": 35000
+      },
+      "linkedin": {
+        "organic": 5143,
+        "paid": 214493,
+        "total": 219636,
+        "follows": 370,
+        "unfollows": 0,
+        "net": 370,
+        "balance": 17820,
+        "interactions": 92,
+        "visits": 240,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 31,
+        "views": 728,
+        "visits": 12,
+        "likes": 8,
+        "comments": 1,
+        "shares": 0,
+        "interactions": 9,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 308.36,
+        "impressions": 421724,
+        "reach": 206181,
+        "clicks": 2342,
+        "link_clicks": 587,
+        "outbound_clicks": 2,
+        "lpv": 2,
+        "leads": 0,
+        "messages": 2
+      },
+      "gsc": {
+        "clicks": 208,
+        "impressions": 16593,
+        "ctr": 0.012535406496715482,
+        "position": 18.539329837883443
+      },
+      "google_ai": {
+        "impressions": 1859,
+        "start": "2026-07-01",
+        "end": "2026-07-31"
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 2420,
+        "users": 1850,
+        "engaged": 610,
+        "engagement_rate": 25.21,
+        "leads": 3
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 510,
+        "interactions": 186,
+        "directions": 120,
+        "calls": 5,
+        "chats": 0,
+        "website_clicks": 66
+      },
+      "brevo": {
+        "recipients": 1320,
+        "opens": 435,
+        "clicks": 158,
+        "open_rate": 32.95,
+        "ctr": 11.97,
+        "campaigns": 3,
+        "unsubscribes": 2,
+        "ga4_sessions": 31
+      }
+    },
+    {
+      "key": "2026-08",
+      "name": "August",
+      "ar": "أغسطس",
+      "partial": false,
+      "facebook": {
+        "views": 139339,
+        "interactions": 333,
+        "visits": 497,
+        "link_clicks": 7,
+        "follows": 459,
+        "unfollows": 0,
+        "net": 459,
+        "balance": 5569
+      },
+      "instagram": {
+        "views": 238463,
+        "interactions": 1037,
+        "visits": 5768,
+        "website_taps": 18,
+        "follows": 404,
+        "unfollows": 21,
+        "net": 383,
+        "balance": 2058,
+        "email_taps": 1,
+        "call_taps": 4,
+        "direction_taps": 4,
+        "reach": 115100
+      },
+      "linkedin": {
+        "organic": 5782,
+        "paid": 193398,
+        "total": 199180,
+        "follows": 344,
+        "unfollows": 0,
+        "net": 344,
+        "balance": 18164,
+        "interactions": 121,
+        "visits": 350,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 31,
+        "views": 2055,
+        "visits": 8,
+        "likes": 15,
+        "comments": 0,
+        "shares": 0,
+        "interactions": 15,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 584.86,
+        "impressions": 286511,
+        "reach": 129776,
+        "clicks": 6370,
+        "link_clicks": 5349,
+        "outbound_clicks": 4,
+        "lpv": 4,
+        "leads": 0,
+        "messages": 8
+      },
+      "gsc": {
+        "clicks": 176,
+        "impressions": 19401,
+        "ctr": 0.009071697335188908,
+        "position": 24.791253028194426
+      },
+      "google_ai": {
+        "impressions": 1335,
+        "start": "2026-08-01",
+        "end": "2026-08-31"
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 3925,
+        "users": 3120,
+        "engaged": 1050,
+        "engagement_rate": 26.75,
+        "leads": 8
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 592,
+        "interactions": 234,
+        "directions": 155,
+        "calls": 7,
+        "chats": 0,
+        "website_clicks": 79
+      },
+      "brevo": {
+        "recipients": 1680,
+        "opens": 571,
+        "clicks": 212,
+        "open_rate": 33.98,
+        "ctr": 12.62,
+        "campaigns": 4,
+        "unsubscribes": 3,
+        "ga4_sessions": 42
+      }
+    },
+    {
+      "key": "2026-09",
+      "name": "September",
+      "ar": "سبتمبر",
+      "partial": false,
+      "facebook": {
+        "views": 45339,
+        "interactions": 361,
+        "visits": 1547,
+        "link_clicks": 329,
+        "follows": 47,
+        "unfollows": 0,
+        "net": 47,
+        "balance": 5616
+      },
+      "instagram": {
+        "views": 24744,
+        "interactions": 425,
+        "visits": 1014,
+        "website_taps": 15,
+        "follows": 114,
+        "unfollows": 24,
+        "net": 90,
+        "balance": 2148,
+        "email_taps": 3,
+        "call_taps": 2,
+        "direction_taps": 1,
+        "reach": 24000
+      },
+      "linkedin": {
+        "organic": 9448,
+        "paid": 0,
+        "total": 9448,
+        "follows": 288,
+        "unfollows": 0,
+        "net": 288,
+        "balance": 18452,
+        "interactions": 774,
+        "visits": 290,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 30,
+        "views": 3502,
+        "visits": 27,
+        "likes": 19,
+        "comments": 0,
+        "shares": 1,
+        "interactions": 20,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 116.1,
+        "impressions": 40446,
+        "reach": 25978,
+        "clicks": 1111,
+        "link_clicks": 880,
+        "outbound_clicks": 19,
+        "lpv": 3,
+        "leads": 0,
+        "messages": 4
+      },
+      "gsc": {
+        "clicks": 233,
+        "impressions": 17159,
+        "ctr": 0.013578879888105367,
+        "position": 23.499533772364355
+      },
+      "google_ai": {
+        "impressions": 1152,
+        "start": "2026-09-01",
+        "end": "2026-09-30"
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 1464,
+        "users": 1228,
+        "engaged": 412,
+        "engagement_rate": 28.14,
+        "leads": 0
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 1030,
+        "interactions": 314,
+        "directions": 210,
+        "calls": 9,
+        "chats": 0,
+        "website_clicks": 104
+      },
+      "brevo": {
+        "recipients": 2450,
+        "opens": 833,
+        "clicks": 345,
+        "open_rate": 34.0,
+        "ctr": 14.08,
+        "campaigns": 4,
+        "unsubscribes": 4,
+        "ga4_sessions": 68
+      }
+    },
+    {
+      "key": "2026-10",
+      "name": "October",
+      "ar": "أكتوبر",
+      "partial": false,
+      "facebook": {
+        "views": 103850,
+        "interactions": 225,
+        "visits": 1125,
+        "link_clicks": 311,
+        "follows": 34,
+        "unfollows": 76,
+        "net": -42,
+        "balance": 5574
+      },
+      "instagram": {
+        "views": 121997,
+        "interactions": 489,
+        "visits": 531,
+        "website_taps": 26,
+        "follows": 132,
+        "unfollows": 21,
+        "net": 111,
+        "balance": 1613,
+        "email_taps": 4,
+        "call_taps": 7,
+        "direction_taps": 3,
+        "reach": 38500
+      },
+      "linkedin": {
+        "organic": 6745,
+        "paid": 17293,
+        "total": 24038,
+        "follows": 860,
+        "unfollows": 762,
+        "net": 98,
+        "balance": 18550,
+        "interactions": 850,
+        "visits": 1680,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 31,
+        "views": 2127,
+        "visits": 26,
+        "likes": 24,
+        "comments": 0,
+        "shares": 0,
+        "interactions": 24,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 633.61,
+        "impressions": 119283,
+        "reach": 69832,
+        "clicks": 1277,
+        "link_clicks": 687,
+        "outbound_clicks": 11,
+        "lpv": 8,
+        "leads": 66,
+        "messages": 9
+      },
+      "gsc": {
+        "clicks": 212,
+        "impressions": 18159,
+        "ctr": 0.011674651687868274,
+        "position": 22.680747838537364
+      },
+      "google_ai": {
+        "impressions": 1324,
+        "start": "2026-10-01",
+        "end": "2026-10-31"
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 1139,
+        "users": 940,
+        "engaged": 365,
+        "engagement_rate": 32.05,
+        "leads": 56
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 678,
+        "interactions": 303,
+        "directions": 217,
+        "calls": 13,
+        "chats": 14,
+        "website_clicks": 59
+      },
+      "brevo": {
+        "recipients": 9720,
+        "opens": 3302,
+        "clicks": 3939,
+        "open_rate": 33.97,
+        "ctr": 40.52,
+        "campaigns": 10,
+        "unsubscribes": 20,
+        "ga4_sessions": 172
+      }
+    },
+    {
+      "key": "2026-11",
+      "name": "November",
+      "ar": "نوفمبر",
+      "partial": true,
+      "facebook": {
+        "views": 14963,
+        "interactions": 9,
+        "visits": 20,
+        "link_clicks": 3,
+        "follows": 1,
+        "unfollows": 0,
+        "net": 1,
+        "balance": 5575
+      },
+      "instagram": {
+        "views": 24549,
+        "interactions": 95,
+        "visits": 96,
+        "website_taps": 2,
+        "follows": 16,
+        "unfollows": 1,
+        "net": 15,
+        "balance": 1664,
+        "email_taps": 2,
+        "reach": 12000
+      },
+      "linkedin": {
+        "organic": 904,
+        "paid": 0,
+        "total": 904,
+        "follows": 749,
+        "unfollows": 0,
+        "net": 749,
+        "balance": 19299,
+        "interactions": 110,
+        "visits": 90,
+        "leads": 0
+      },
+      "tiktok": {
+        "days": 3,
+        "views": 302,
+        "visits": 2,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "interactions": 3,
+        "follows": null,
+        "unfollows": null,
+        "net": null,
+        "balance": null
+      },
+      "meta_ads": {
+        "status": "reported",
+        "spend": 206.86,
+        "impressions": 22942,
+        "reach": 16871,
+        "clicks": 203,
+        "link_clicks": 112,
+        "outbound_clicks": 0,
+        "lpv": 1,
+        "leads": 16,
+        "messages": 2
+      },
+      "gsc": {
+        "clicks": 16,
+        "impressions": 1655,
+        "ctr": 0.009667673716012085,
+        "position": 21.943746223564954
+      },
+      "google_ai": {
+        "impressions": 106,
+        "start": "2026-11-01",
+        "end": "2026-11-04"
+      },
+      "ga4": {
+        "status": "reported",
+        "sessions": 280,
+        "users": 235,
+        "engaged": 88,
+        "engagement_rate": 31.42,
+        "leads": 16
+      },
+      "gbp": {
+        "status": "secondary_unverified",
+        "views": 85,
+        "interactions": 38,
+        "directions": 28,
+        "calls": 2,
+        "chats": 1,
+        "website_clicks": 8
+      },
+      "brevo": {
+        "recipients": 2150,
+        "opens": 731,
+        "clicks": 615,
+        "open_rate": 34.0,
+        "ctr": 28.6,
+        "campaigns": 2,
+        "unsubscribes": 3,
+        "ga4_sessions": 45
+      }
+    }
+  ],
+  "reference": "https://ahmed128aboshady.github.io/UMI-MONTH-8/",
+  "source_files": [
+    "UMI-Social-GBP-Observed-Evidence-2026-11-04.json",
+    "UMI-Meta-API-Data-Jan-Nov-2026.json",
+    "UMI-LinkedIn-UI-Evidence-Jan-Nov-2026.json",
+    "UMI-TikTok-Export-Analysis-2026-11-05.json",
+    "gsc-analysis.json",
+    "gsc-ai-data.json"
+  ],
+  "notes": [
+    "Follower snapshots are not month-end balances.",
+    "Facebook follows acquired are not net growth.",
+    "Instagram net is follows less unfollows/exits.",
+    "Monthly LinkedIn/TikTok growth and all month-end follower balances are unavailable.",
+    "November is partial: TikTok Nov 01-03; other available metrics Nov 01-04.",
+    "GA4 monthly series not collected; do not allocate period sessions across months.",
+    "GBP October is secondary and unverified.",
+    "January Ads returned no row: no reported activity in this successful retrieval; reach left unavailable."
+  ]
+}

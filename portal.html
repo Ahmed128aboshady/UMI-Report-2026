@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UMI Performance & Executive Reports Portal | بوابة تقارير UMI</title>
+  <style>
+    :root {
+      --primary: #BE0463;
+      --primary-hover: #9c0351;
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --card-border: #334155;
+      --text: #f8fafc;
+      --muted: #94a3b8;
+      --accent: #38bdf8;
+      --green: #10b981;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 20px;
+    }
+    .header {
+      text-align: center;
+      max-width: 800px;
+      margin-bottom: 40px;
+    }
+    .logo-badge {
+      display: inline-block;
+      background: rgba(190, 4, 99, 0.15);
+      border: 1px solid var(--primary);
+      color: #f43f5e;
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 16px;
+      letter-spacing: 1px;
+    }
+    h1 {
+      font-size: 32px;
+      font-weight: 800;
+      margin-bottom: 12px;
+      color: #fff;
+    }
+    p.subtitle {
+      font-size: 16px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      width: 100%;
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: all 0.25s ease;
+      position: relative;
+      overflow: hidden;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      border-color: var(--primary);
+      box-shadow: 0 12px 30px -10px rgba(190, 4, 99, 0.3);
+    }
+    .card-tag {
+      position: absolute;
+      top: 16px;
+      left: 16px;
+      background: rgba(56, 189, 248, 0.15);
+      color: var(--accent);
+      padding: 4px 10px;
+      border-radius: 8px;
+      font-size: 11px;
+      font-weight: 700;
+    }
+    .card-tag.green {
+      background: rgba(16, 185, 129, 0.15);
+      color: var(--green);
+    }
+    .card-tag.pink {
+      background: rgba(190, 4, 99, 0.2);
+      color: #f43f5e;
+    }
+    .card-icon {
+      font-size: 36px;
+      margin-bottom: 16px;
+    }
+    .card h2 {
+      font-size: 20px;
+      margin-bottom: 10px;
+      color: #fff;
+    }
+    .card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-bottom: 24px;
+      flex-grow: 1;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      background: var(--primary);
+      color: #fff;
+      text-decoration: none;
+      padding: 12px 20px;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 700;
+      transition: background 0.2s;
+    }
+    .btn:hover {
+      background: var(--primary-hover);
+    }
+    .btn.secondary {
+      background: #334155;
+      color: #f8fafc;
+    }
+    .btn.secondary:hover {
+      background: #475569;
+    }
+    .btn.highlight {
+      background: linear-gradient(135deg, #BE0463 0%, #db2777 100%);
+    }
+    .footer {
+      margin-top: 50px;
+      font-size: 13px;
+      color: var(--muted);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="logo-badge">UMI DIGITAL PERFORMANCE 2026</div>
+    <h1>بوابة استعراض تقارير وفيديوهات UMI التنفيذية</h1>
+    <p class="subtitle">جميع التقارير ولوحات التحكم التفاعلية وفيديوهات الشرح المسجلة (بالعربية والإنجليزية) جاهزة للاستعراض المباشر</p>
+  </div>
+
+  <div class="grid">
+    
+    <!-- Card 1: Platform Dashboard -->
+    <div class="card" style="border-top: 4px solid var(--primary);">
+      <span class="card-tag green">تفاعلي | 9 منصات</span>
+      <div class="card-icon">📊</div>
+      <h2>لوحة تحكم المنصات الشهرية</h2>
+      <p>داشبورد تفاعلي يتيح التنقل بين 9 منصات (Meta Ads, Facebook, Instagram, TikTok, LinkedIn, GSC, Google AI, GA4, Brevo Email) شهراً بشهر من يناير حتى نوفمبر 2026 باللغتين العربية والإنجليزية.</p>
+      <a href="/UMI-Monthly-Platform-Dashboard-2026.html" class="btn">فتح لوحة المنصات ↗</a>
+    </div>
+
+    <!-- Card 2: Executive Report AR -->
+    <div class="card">
+      <span class="card-tag">عربي | تنفيذي</span>
+      <div class="card-icon">📑</div>
+      <h2>التقرير التنفيذي (باللغة العربية)</h2>
+      <p>العرض الإداري المكتمل للنتائج الموثقة، تدقيق المنصات، قنوات التحويل، تدقيق أداء الموقع ومحركات البحث، وقرارات الإدارة الـ 4 الأساسية.</p>
+      <a href="/UMI-Digital-Performance-Report-AR-2026.html" class="btn">فتح التقرير العربي ↗</a>
+    </div>
+
+    <!-- Card 3: Executive Report EN -->
+    <div class="card">
+      <span class="card-tag">English | Executive</span>
+      <div class="card-icon">📈</div>
+      <h2>Executive Performance Report (EN)</h2>
+      <p>Full 18-page executive view covering verified channel performance, conversion architecture, SEO & AI discovery, and the 90-day execution roadmap.</p>
+      <a href="/UMI-Digital-Performance-Executive-Report-EN-2026.html" class="btn secondary">Open English Report ↗</a>
+    </div>
+
+    <!-- Card 4: Arabic Video Walkthrough -->
+    <div class="card" style="border: 2px solid var(--primary);">
+      <span class="card-tag pink">فيديو بالعربي 🎬</span>
+      <div class="card-icon">🎥</div>
+      <h2>فيديو شرح التقرير (باللغة العربية)</h2>
+      <p>تسجيل شاشة واستعراض مرئي صوتي باللغة العربية يشرح تفاصيل التقرير التنفيذي، تدقيق المنصات، تشخيص GA4، ليدات المعارض، وخطة الـ 90 يوماً.</p>
+      <a href="/UMI-Digital-Performance-Report-Walkthrough-AR.mp4" class="btn highlight" target="_blank">مشاهدة الفيديو العربي ▶</a>
+    </div>
+
+    <!-- Card 5: English Video Walkthrough -->
+    <div class="card">
+      <span class="card-tag">English Video 🎬</span>
+      <div class="card-icon">🎬</div>
+      <h2>Executive Walkthrough Video (EN)</h2>
+      <p>Full HD narrated screen walkthrough in English presenting executive summary, platform baselines, conversion metrics, and commercial opportunities.</p>
+      <a href="/UMI-Digital-Performance-Executive-Report-Walkthrough.mp4" class="btn secondary" target="_blank">Watch English Walkthrough ▶</a>
+    </div>
+
+    <!-- Card 6: PDF Download -->
+    <div class="card">
+      <span class="card-tag">وثيقة معتمدة</span>
+      <div class="card-icon">📕</div>
+      <h2>التقرير بصيغة PDF للطباعة</h2>
+      <p>تحميل أو فتح النسخة المعتمدة الجاهزة للعرض والطباعة A4 بجودة عالية وتنسيق جاهز للاجتماعات التنفيذية مع الإدارة والشركاء.</p>
+      <a href="/UMI-Digital-Performance-Executive-Report-EN-2026.pdf" class="btn secondary" target="_blank">فتح الـ PDF ↗</a>
+    </div>
+
+  </div>
+
+  <div class="footer">
+    خادم محلي يعمل على <strong>http://localhost:8088</strong> | UMI Digital Performance & Strategy Suite 2026
+  </div>
+
+</body>
+</html>
